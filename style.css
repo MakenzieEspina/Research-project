@@ -1,6 +1,4 @@
-body{
 
-}
 h1{
     font-family:Bebas Neue;
     font-weight: 100;
@@ -27,7 +25,7 @@ HERO SECTION
     background-color:white;
     background-image: url("img/Flagfootballtitans.jpg");
     background-position: center;
-    background-size: cover;
+    background-size:cover;
     padding:50px;
     color:ghostwhite;
 }
@@ -45,5 +43,18 @@ ABOUT SECTION
 p{
     font-size: 15px;
     padding: 5px;
-
 }
+/*
+=================================================
+IMPACT SECTION
+=================================================
+*/
+
+
+p{
+}
+/*
+=================================================
+VIDEO SECTION
+=================================================
+*/
