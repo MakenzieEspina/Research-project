@@ -67,7 +67,16 @@ img{
 VIDEO SECTION
 =================================================
 */
-
+.video h1{
+    font-size:50px;
+    padding-right:80%;
+}
+.video p {
+    text-align:left;
+}
+.video iframe{
+    float:right;
+}
 /*
 =================================================
 HERO SECTION
@@ -81,11 +90,12 @@ HERO SECTION
 LEARNING SECTION
 =================================================
 */
-.learning {
- 
+.learning h1{
+    padding-left:67%;
 }
-iframe{
-    padding:5px;
-    margin:auto;
-    align-items: center;
+.learning p{
+ text-align:right;
+}
+.learning iframe{
+    padding-bottom: 20px;
 }
